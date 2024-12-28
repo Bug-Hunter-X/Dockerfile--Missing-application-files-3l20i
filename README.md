@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: missing files needed for application execution. The original Dockerfile fails because the application files are not copied into the image. The solution provides the correct Dockerfile that copies the application files and resolves the issue.
